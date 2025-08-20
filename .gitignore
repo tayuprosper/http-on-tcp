@@ -41,5 +41,5 @@
 *.dwo
 
 #vs code setup
-.vs*
+.vscode
 *.vs*
